@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-panorama:10.2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05c52bced4409bff7eb1eb4429a2b4d2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05c52bced4409bff7eb1eb4429a2b4d2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fe7b83b5252a8359a95fc9a68f5eac4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bc7433fdfdff1ca09c570dc6e12111d/jetified-play-services-panorama-10.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bc7433fdfdff1ca09c570dc6e12111d/jetified-play-services-panorama-10.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bc7433fdfdff1ca09c570dc6e12111d/jetified-play-services-panorama-10.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf86554f119c8dd2ee6ad686f25a12f7/jetified-play-services-panorama-10.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf86554f119c8dd2ee6ad686f25a12f7/jetified-play-services-panorama-10.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf86554f119c8dd2ee6ad686f25a12f7/jetified-play-services-panorama-10.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
